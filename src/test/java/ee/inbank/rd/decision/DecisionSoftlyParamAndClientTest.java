@@ -1,4 +1,4 @@
-package ee.inbank.rd.inheritance;
+package ee.inbank.rd.decision;
 
 import com.google.gson.JsonObject;
 import com.google.gson.JsonParser;

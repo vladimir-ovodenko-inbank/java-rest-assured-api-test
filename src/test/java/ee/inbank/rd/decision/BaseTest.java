@@ -1,4 +1,4 @@
-package ee.inbank.rd.inheritance;
+package ee.inbank.rd.decision;
 
 import org.assertj.core.api.SoftAssertions;
 import org.junit.jupiter.api.AfterEach;
